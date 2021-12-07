@@ -1,1 +1,1 @@
-module.exports = '/myBlog'
+module.exports = '/myBlog/'
